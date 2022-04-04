@@ -18,8 +18,8 @@ Simple game created with python
 Methods
 <img width="372" alt="2" src="https://user-images.githubusercontent.com/99819603/161567794-c959cc14-dcb8-4eb1-9f8a-a75980b1e30a.PNG">
 
-**How it is looks**
-<img width="544" alt="4" src="https://user-images.githubusercontent.com/99819603/161570200-99adf17f-a052-4efc-9fa1-3b81938d5e57.PNG">
+**how it looks like**
+<img width="540" alt="5" src="https://user-images.githubusercontent.com/99819603/161577386-40916429-8b4d-4931-8fdf-9f0b972ef3b8.PNG">
 
 **Technologies:**
 
@@ -30,10 +30,10 @@ Methods
 - Enjoying time by playing with matching colors
 - Training memory
 
-**Setup**
+**Setup:**
 
 To run this project download numpy
 
-**Inspiration**
+**Inspiration:**
 
 My midterm point depends on this project:)
