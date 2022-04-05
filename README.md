@@ -18,6 +18,9 @@ Simple game created with python
 Methods
 <img width="372" alt="2" src="https://user-images.githubusercontent.com/99819603/161567794-c959cc14-dcb8-4eb1-9f8a-a75980b1e30a.PNG">
 
+Private Method
+<img width="226" alt="Снимок" src="https://user-images.githubusercontent.com/99819603/161784883-6aab1ddc-61ec-48e1-a30a-e65465209640.PNG">
+
 **how it looks like**
 <img width="540" alt="5" src="https://user-images.githubusercontent.com/99819603/161577386-40916429-8b4d-4931-8fdf-9f0b972ef3b8.PNG">
 
